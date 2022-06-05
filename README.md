@@ -1,1 +1,8 @@
-# Git & Github 사용법 익히기
+# Today I Learned
+
+
+
+## Python
+
+## Git
+
